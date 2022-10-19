@@ -1,6 +1,6 @@
 # eCommerce Database Project
 
-- Gurpreeth, Raymond, Tenzin
+Mohd Atikur Rehman
 
 Website and Database for eCommerce using Flask and SQL. We used MySQL Workbench for the database and PyCharm for Python and Flask. Boostrap was utilized to design all the web pages.
 
